@@ -3,9 +3,9 @@
 
 
 
-## I'm a Developer student!!
+## I'm a Developer - Chatbot!!
 - ✍ You can find my projects here [github]
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and Node
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
