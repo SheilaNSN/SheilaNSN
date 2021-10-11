@@ -44,6 +44,6 @@
 </details>
 
 [twitter]: https://twitter.com/https://twitter.com/sheeilaneery
-[linkedin]: https://www.linkedin.com/in/https://www.linkedin.com/in/sheila-nery//
+[linkedin]: https://www.linkedin.com/in/sheila-nery/
 [github]: https://github.com/https://github.com/SheilaNSN
 [codepen]: https://codepen.io/https://codepen.io/SheilaNery
