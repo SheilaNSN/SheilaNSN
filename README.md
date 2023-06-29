@@ -5,7 +5,7 @@
 
 ## I'm a Developer - Chatbot!!
 - ✍ You can find my projects here [github]
-- 🌱 I’m currently learning React and Node
+- 🌱 I’m currently learning Javascript / IA / Python
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
